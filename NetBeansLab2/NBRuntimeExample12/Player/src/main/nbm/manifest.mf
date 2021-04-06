@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Install: dk/sdu/cbse/player/Installer.class
+OpenIDE-Module-Localizing-Bundle: dk/sdu/cbse/player/Bundle.properties
+
