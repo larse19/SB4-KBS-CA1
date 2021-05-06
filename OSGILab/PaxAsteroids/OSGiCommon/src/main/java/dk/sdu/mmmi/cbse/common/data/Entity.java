@@ -58,4 +58,8 @@ public class Entity implements Serializable {
     public void setShapeY(float[] shapeY) {
         this.shapeY = shapeY;
     }
+
+    public Object getSprite() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
 }
